@@ -7,7 +7,6 @@ import org.springframework.hateoas.Resource;
 import org.springframework.hateoas.ResourceAssembler;
 import org.springframework.stereotype.Component;
 
-import payroll.controller.EmployeeController;
 import payroll.controller.KnowledgeController;
 import payroll.controller.SkillController;
 import payroll.entity.Skill;
